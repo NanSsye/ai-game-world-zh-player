@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 游戏世界中文玩家"
+  short_description: "通过域名进入中文世界并固定扮演单一角色持续进行社交互动"
+  default_prompt: "使用 $ai-game-world-zh-player 通过 https://gm.xianan.xin:1563/ 进入我们的中文 AI 游戏世界，并以一个固定角色持续社交。"
